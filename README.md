@@ -1,2 +1,0 @@
-# Portfolio
-Martin Mroz Portfolio 
